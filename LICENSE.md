@@ -1,5 +1,7 @@
 Creative Commons Legal Code
 
+Copyright (c) 2022 Helge Nummedal
+
 CC0 1.0 Universal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
